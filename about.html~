@@ -1,0 +1,54 @@
+<!DOCTYPE html >
+<html>
+<head>
+<title>Dr.Naima Abdel-Ghany</title>
+<meta charset="iso-8859-1" />
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+<!--[if IE 6]>
+		<link href="css/ie6.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+<!--[if IE 7]>
+        <link href="css/ie7.css" rel="stylesheet" type="text/css" />  
+	<![endif]-->
+</head>
+
+<body>
+<div id="background">
+  <div id="page">
+    <div class="header">
+      <div class="footer">
+        <div class="body">
+          <div id="sidebar"> <a href="index.html"><img id="logo" src="images/logo.png" width="130" height="120" alt="" title=""/></a>
+            <ul class="navigation">
+              <li><a  href="index.html">HOME</a></li>
+              <li class="active"><a href="about.html" >ABOUT</a></li>
+              <li><a href="blog.html">SERVICES</a></li>
+              <li class="last"><a href="contact.html">CONTACT</a></li>
+            </ul>
+            <div class="connect"> <a href="http://facebook.com/freewebsitetemplates" class="facebook">&nbsp;</a> <a href="http://twitter.com/fwtemplates" class="twitter">&nbsp;</a> <a href="http://www.youtube.com/fwtemplates" class="vimeo">&nbsp;</a> </div>
+            <div class="footenote"> <span>&copy; Copyright &copy; 2014.</span>
+										  <span><a href="index.html">Mohamed Elfeki</a> all rights reserved</span></div>
+          </div>
+          <div id="content">
+            <div class="content">
+              <ul>
+                <li>
+                  <h2><a href="about.html">Meet Dr.Abd Elghany</a></h2>
+                  <p> Dr. Naima Abdel-Ghany is the medical director of The Medical Practice for Preventive Medicine, Immune-therapy, and Anti-Aging Medicine. She completed her residency at Duke University Medical Center, Department of Family & Community Medicine in 1990. Earlier she obtained her Ph.D. degree from the University of North Carolina at Chapel Hill. In 1991, she became Board Certified by the American Board of Preventative Medicine, Occupational/Environmental Medicine. She was the Medical Director of the Employee Health Clinic at the Center for Disease Control (CDC) in Atlanta, Georgia, before starting her practice in Panama City, Florida. She served in the capacity of Assistant Professor at the University of Utah, functioned as a faculty member in several other universities and has numerous publications in scientific journals. Dr. Abdel-Ghany made her first visit to Germany in 1991 in a journey to learn more about Dr. Issels' Immune-therapy for cancer and chronic diseases, This was followed by several more visits. These visits had a great impact on the incorporation of the complementary, holistic medicine modalities with conventional medicine in her current practices. The practice focused on Internal medicine, Occupational/Environmental Medicine, and Preventive medicine with emphasis on Anti-Aging Medicine, Immune-therapy and Energy Medicine. The practice included both conventional and complementary medicine approaches to diagnosing and treating chronic and degenerative diseases. Dr. Abdel-Ghany also provided consultations to The World Health Organization (WHO) in Epidemiology, preventive medicine and Cancer control. </p>
+                </li>
+                <li>
+                  <h2><a href="about.html">Historical Background</a></h2>
+                  <p> The late Dr. Joseph Issels of the Ringbeg-Klinik in Roltach-Egern. Germany developed a comprehensive immune-therapy program for the treatment of the "incurable" cancer and chronic disease patients. The applications of this program have been successful in treatment of advanced cancer patients in Germany for over forty years,Dr. Issels' publications of the long-term results of his treatment showed that most of these patients with cancer and other chronic degenerative diseases were actually cured and could live free of the disease for many years.<br>Dr. Issels' approach is a multi-disciplinary treatment program consisting of comprehensive immune-therapy modalities to restore the impaired immune system as well as conventional modalities directed at eliminating the tumor. The treatment goal is restoration of all the body's defense mechanisms, the nervous and hormonal control systems, as well as the natural repair functions of the body. The German National Health Services pay the entire cost for the patient's therapy following Dr. Issel's program in several clinics in Germany.<br>At our clinic we use Dr. Issel's approach as well as other modalities that have immune system enhancing effect us part of our Multi-modality Immune-therapy Program (M1P). The MIP helps to stimulate and regenerate the body's own immune system, which in turn will overcome the disease process. M1P also helps to change the milieu of the body to make it unsuitable for the disease process.
+The M1P program has been implemented in our clinic with excellent results. Additional treatment modalities have been used with emphasis on tailoring the program to individual patient condition. This is based on comprehensive assessment of the body and immune functions prior to and during the treatment. Assessing the hormonal status for men & women and correcting any imbalances also provide anti-aging medical protocols. This can help slow the process of physical aging. A large number of patients have been greatly helped by improving their chances of healing through this multi-disciplinary program. </p>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="shadow"> </div>
+  </div>
+</div>
+</body>
+</html>

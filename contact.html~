@@ -1,0 +1,105 @@
+<!DOCTYPE html >
+<html>
+
+<head>
+	<title>Dr.Naima Abdel-Ghany</title>
+	<meta  charset="iso-8859-1" />
+	<link href="css/style.css" rel="stylesheet" type="text/css" />
+	<!--[if IE 6]>
+		<link href="css/ie6.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+	<!--[if IE 7]>
+        <link href="css/ie7.css" rel="stylesheet" type="text/css" />  
+	<![endif]-->
+	<style>
+html, body {
+margin: 0;
+padding: 0;
+height: 100%;
+}
+
+body {
+color: #000;
+background: #B9DDE0 url(backg3.jpg) no-repeat center;
+}
+	</style>
+</head>
+
+<body>
+
+	  <div id="background">
+			  <div id="page">
+			  
+					 <div class="header">
+						<div class="footer">
+							<div class="body">
+									<div id="sidebar">
+									    <a href="index.html"><img id="logo" src="images/logo.png" width="130" height="120" alt="" title=""/></a>
+										
+										<ul class="navigation">
+										    <li><a  href="index.html">HOME</a></li>
+											<li ><a href="about.html" >ABOUT</a></li>
+											<li><a href="blog.html">SERVICES</a></li>
+											<li class="active last"><a href="contact.html">CONTACT</a></li>
+										</ul>
+										
+										<div class="connect">
+										    <a href="http://facebook.com/" class="facebook">&nbsp;</a>
+											<a href="http://twitter.com/f" class="twitter">&nbsp;</a>
+											<a href="http://www.youtube.com/" class="vimeo">&nbsp;</a>
+										</div>
+										
+										<div class="footenote">
+										  <span>&copy; Copyright &copy; 2014.</span>
+										  <span><a href="index.html">Mohamed Elfeki</a> all rights reserved</span>
+										</div>
+										
+									</div>
+									<div id="content">
+									          <div class="content">
+											    <ul>
+
+													<li><h1>Contact Us</h1>
+															<p>
+															Naima Abdel-Ghany,M.D.,<br>Ph.D.,Medical Director.<br>Advanced Holistic Medicine.<br>P.O.Box 15998<br>Panama City,FL 32406<br>
+															</p>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22783.68084953916!2d-86.0667958!3d30.309374450000007!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8893efb8ebae19e3%3A0x9eaaa383a88ee226!2s6350+E+County+Road+30-A%2C+Santa+Rosa+Beach%2C+FL%2C+United+States!5e1!3m2!1sen!2s!4v1391250749685" width="450" height="400" frameborder="0" style="border:0;margin-top: -190px; margin-left: 220px;position: absolute;"></iframe>
+
+															<p>
+												<form action="index.html">
+						<label for="name"><span>Name</span>
+							<input type="text" name="name" id="name">
+						</label>
+						<label for="telephoneNumber"><span>Tel.Number</span>
+							<input type="text" name="telephoneNumber" id="telephoneNumber">
+						</label>
+						<label for="email2"><span>E-mail</span>
+							<input type="text" name="email2" id="email2">
+						</label>
+						<label for="subject"><span>Subject</span>
+							<input type="text" name="subject" id="subject">
+						</label>
+						<label for="message"><span>Message</span>
+							<textarea id="message" cols="50" rows="5"></textarea>
+						</label>
+						<input type="submit" name="submit2" id="submit2" value="Send"style="height:30px; width:80px;position: absolute; left: 870px; top: 580px;"/>
+						
+					</form>
+															</p>
+															
+															
+													</li>
+
+												</ul>
+										     </div>
+									</div>
+							</div>
+						</div>
+					 </div>
+					 <div class="shadow">
+					 </div>
+			  </div>    
+	  </div>    
+	
+</body>
+</html>
